@@ -1,6 +1,5 @@
 # Glasses-For-Fish
 
-## Homework #3: Camera Calibration
 
 체스보드 영상을 이용해 카메라를 캘리브레이션하고, 추정한 파라미터로 렌즈 왜곡을 보정한 결과를 정리한 프로젝트입니다.
 
