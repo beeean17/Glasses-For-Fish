@@ -60,7 +60,7 @@
 
 동일한 캘리브레이션 결과를 전체 영상에도 적용했습니다.
 
-[왜곡 보정 영상 데모 보기](outputs/undistorted_video.mp4)
+[왜곡 보정 영상 데모 보기](outputs/undistorted_video.mp4) outputs/undistorted_video.mp4 파일 입니다.
 
 ## 실행 방법
 
