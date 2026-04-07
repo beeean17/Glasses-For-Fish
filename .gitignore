@@ -12,6 +12,7 @@ results.json
 sampled_images/
 outputs/*
 !outputs/undistorted_demo.jpg
+!outputs/undistorted_video.mp4
 
 # Large local media
 checker.mp4

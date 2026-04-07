@@ -58,6 +58,10 @@
 
 보정은 `cv.getOptimalNewCameraMatrix`와 `cv.undistort`를 이용해 수행했습니다. 왼쪽 원본과 비교했을 때, 오른쪽 보정 결과에서 렌즈 왜곡이 완화된 것을 확인할 수 있습니다.
 
+동일한 캘리브레이션 결과를 전체 영상에도 적용했습니다.
+
+[왜곡 보정 영상 데모 보기](outputs/undistorted_video.mp4)
+
 ## 실행 방법
 
 의존성 설치:
