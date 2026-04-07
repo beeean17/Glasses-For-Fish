@@ -1,0 +1,7 @@
+{
+    "chessboard_pattern": [
+        10,
+        7
+    ],
+    "criteria": "AIC"
+}

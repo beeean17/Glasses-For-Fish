@@ -1,0 +1,9 @@
+{
+    "chessboard_pattern": [
+        10,
+        7
+    ],
+    "decimal_place": ".4f",
+    "model_wise_cmap": "Blues",
+    "point_wise_cmap": "viridis"
+}

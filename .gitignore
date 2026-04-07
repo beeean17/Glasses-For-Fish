@@ -1,0 +1,17 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Generated calibration artifacts
+results.json
+sampled_images/
+outputs/*
+!outputs/undistorted_demo.jpg
+
+# Large local media
+checker.mp4
